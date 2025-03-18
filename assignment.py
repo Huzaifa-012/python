@@ -5,8 +5,11 @@ for i in [1, 2, 3, 4, 5]:
         print(i + j)  # last line in "for j" block
     print(i)  # last line in "for i" block
 print("done looping")
-
+print("Hello")
 import re
+print("Hello")
+print("Hello")
+print("Hello")
 my_regex = re.compile("[0-9]+", re.I)
 
 import re as regex
